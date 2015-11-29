@@ -12,6 +12,6 @@ then execute:
 
 `./fix_double_chrome.py`
 
-or simply cd to where you downloaded thw script and run:
+or simply cd to where you downloaded the script and run:
 
 `python fix_double_chrome.py`
