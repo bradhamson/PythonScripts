@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Fixes the issue of duplicate Google Chrome Icons in Elementary OS Freya
+# Uses method described in http://itsfoss.com/rid-google-chrome-icons-dock-elementary-os-freya/
 import os
 import getpass
 
