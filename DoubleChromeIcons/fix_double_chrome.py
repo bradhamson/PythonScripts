@@ -5,7 +5,7 @@ import os
 import getpass
 
 def update_chrome(file_name, line_num, text):
-    with open(file_name, 'r')as line:
+    with open(file_name, 'r') as line:
     	lines = line.readlines()
     	lines[line_num] = text
     
